@@ -1,0 +1,36 @@
+Time creation:21.03.2020 01:46
+
+Personal information
+
+Name: Vadim Tatarinov
+
+Address: #
+
+Phone: #
+
+E-mail: coliby45@gmail.com
+
+Date of birth: 27 June 1998
+
+Marital status: Single
+
+Nationality: Ukrainian
+
+Education:
+
+2016 - present Cybersecurity, computer science department, 4th year study, Sumy State University
+
+2005 - 2016 Secondary school №7, Sumy Ukraine
+
+Skills
+
+Computer skills: C++, C# , python, html, css, SQL
+
+Languages:
+
+Ukrainian - native
+
+Russian   - native
+
+English   - intermediate b1
+
